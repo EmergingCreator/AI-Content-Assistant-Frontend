@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: import.meta.env.VITE_API_URL || "http://localhost:8000",
+  baseURL: import.meta.env.VITE_API_URL || "https://ai-content-assistant-backend-rbunl7n1w-creatoremerging-2997.vercel.app",
 });
 
 // Your FastAPI params are plain `str` args, so FastAPI reads them from the
