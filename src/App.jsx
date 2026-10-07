@@ -10,7 +10,7 @@ function Spinner({ label }) {
   );
 }
 
-function UrlForm() {
+function UrlForm() { 
   const { url, setUrl, submitUrl, loadingSummary } = useStore();
 
   return (
