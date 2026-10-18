@@ -32,13 +32,3 @@ An AI-powered content assistant that enables users to summarize YouTube videos a
 - **Project:** https://ai-content-assistant-frontend-one.vercel.app/
 - **Portfolio:** https://portfolio-ivory-three-55.vercel.app/
 
-## Key Learning Outcomes
-
-Developed practical experience in building an AI-powered content processing application, integrating LangChain with an LLM, processing online sources, generating summaries, and implementing context-aware question answering.
-
-## Future Improvements
-
-- Support additional document formats.
-- Improve source attribution and answer traceability.
-- Add conversation history for follow-up questions.
-- Enhance error handling for inaccessible websites and unavailable YouTube transcripts.
